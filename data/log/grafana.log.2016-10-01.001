@@ -1,0 +1,230 @@
+t=2016-09-28T09:56:27+0530 lvl=info msg="Received signal [interrupt]. shutting down"
+t=2016-09-30T11:08:18+0530 lvl=info msg="Starting Grafana" logger=main version=3.1.0 commit=NA compiled=2016-09-30T11:08:18+0530
+t=2016-09-30T11:08:18+0530 lvl=info msg="Config loaded from" logger=settings file=/home/gogimcoitdev2/mycode/go/src/github.com/grafana/grafana/conf/defaults.ini
+t=2016-09-30T11:08:18+0530 lvl=info msg="Config loaded from" logger=settings file=/home/gogimcoitdev2/mycode/go/src/github.com/grafana/grafana/conf/defaults.ini
+t=2016-09-30T11:08:18+0530 lvl=info msg="Path Home" logger=settings path=/home/gogimcoitdev2/mycode/go/src/github.com/grafana/grafana
+t=2016-09-30T11:08:18+0530 lvl=info msg="Path Data" logger=settings path=/home/gogimcoitdev2/mycode/go/src/github.com/grafana/grafana/data
+t=2016-09-30T11:08:18+0530 lvl=info msg="Path Logs" logger=settings path=/home/gogimcoitdev2/mycode/go/src/github.com/grafana/grafana/data/log
+t=2016-09-30T11:08:18+0530 lvl=info msg="Path Plugins" logger=settings path=data/plugins
+t=2016-09-30T11:08:18+0530 lvl=info msg="Initializing DB" logger=sqlstore dbtype=mysql
+t=2016-09-30T11:08:18+0530 lvl=info msg="Starting DB migration" logger=migrator
+t=2016-09-30T11:08:21+0530 lvl=info msg="Starting plugin search" logger=plugins
+t=2016-09-30T11:08:21+0530 lvl=info msg="Server Listening" logger=server address=0.0.0.0:3000 protocol=http subUrl=
+t=2016-09-30T11:08:27+0530 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/ status=302 remote_addr=127.0.0.1 time_ns=15ns size=29
+t=2016-09-30T11:08:30+0530 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/login status=302 remote_addr=127.0.0.1 time_ns=2.119µs size=24
+t=2016-09-30T11:08:33+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-notification-icons/angular-notification-icons.min.css status=404 remote_addr=127.0.0.1 time_ns=1.005µs size=19
+t=2016-09-30T11:08:34+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-notification-icons/angular-notification-icons.min.js status=404 remote_addr=127.0.0.1 time_ns=1.856µs size=19
+t=2016-09-30T11:08:34+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-animate/angular-animate.js status=404 remote_addr=127.0.0.1 time_ns=1.884µs size=19
+t=2016-09-30T11:08:34+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular/angular.js status=404 remote_addr=127.0.0.1 time_ns=1.895µs size=19
+t=2016-09-30T11:08:35+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-animate/angular-animate.js status=404 remote_addr=127.0.0.1 time_ns=529ns size=19
+t=2016-09-30T11:08:36+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-notification-icons/angular-notification-icons.min.js status=404 remote_addr=127.0.0.1 time_ns=1.067µs size=19
+t=2016-09-30T11:11:18+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-notification-icons/angular-notification-icons.min.css status=404 remote_addr=127.0.0.1 time_ns=527ns size=19
+t=2016-09-30T11:11:20+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-notification-icons/angular-notification-icons.min.js status=404 remote_addr=127.0.0.1 time_ns=1.858µs size=19
+t=2016-09-30T11:11:20+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular/angular.js status=404 remote_addr=127.0.0.1 time_ns=1.883µs size=19
+t=2016-09-30T11:11:20+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-animate/angular-animate.js status=404 remote_addr=127.0.0.1 time_ns=1.895µs size=19
+t=2016-09-30T11:11:20+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-notification-icons/angular-notification-icons.min.js status=404 remote_addr=127.0.0.1 time_ns=537ns size=19
+t=2016-09-30T11:27:40+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-notification-icons/angular-notification-icons.min.css status=404 remote_addr=127.0.0.1 time_ns=494ns size=19
+t=2016-09-30T11:27:42+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-animate/angular-animate.js status=404 remote_addr=127.0.0.1 time_ns=1.759µs size=19
+t=2016-09-30T11:27:42+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-notification-icons/angular-notification-icons.min.js status=404 remote_addr=127.0.0.1 time_ns=1.761µs size=19
+t=2016-09-30T11:27:42+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular/angular.js status=404 remote_addr=127.0.0.1 time_ns=1.778µs size=19
+t=2016-09-30T11:27:42+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-animate/angular-animate.js status=404 remote_addr=127.0.0.1 time_ns=495ns size=19
+t=2016-09-30T11:27:43+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-notification-icons/angular-notification-icons.min.js status=404 remote_addr=127.0.0.1 time_ns=501ns size=19
+t=2016-09-30T11:30:58+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-notification-icons/angular-notification-icons.min.css status=404 remote_addr=127.0.0.1 time_ns=507ns size=19
+t=2016-09-30T11:30:59+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular/angular.js status=404 remote_addr=127.0.0.1 time_ns=1.767µs size=19
+t=2016-09-30T11:30:59+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-notification-icons/angular-notification-icons.min.js status=404 remote_addr=127.0.0.1 time_ns=1.785µs size=19
+t=2016-09-30T11:30:59+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-animate/angular-animate.js status=404 remote_addr=127.0.0.1 time_ns=1.797µs size=19
+t=2016-09-30T11:31:00+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-notification-icons/angular-notification-icons.min.js status=404 remote_addr=127.0.0.1 time_ns=508ns size=19
+t=2016-09-30T12:24:39+0530 lvl=info msg="Received signal [interrupt]. shutting down"
+t=2016-09-30T12:26:10+0530 lvl=info msg="Starting Grafana" logger=main version=3.1.0 commit=NA compiled=2016-09-30T12:26:10+0530
+t=2016-09-30T12:26:10+0530 lvl=info msg="Config loaded from" logger=settings file=/home/gogimcoitdev2/mycode/go/src/github.com/grafana/grafana/conf/defaults.ini
+t=2016-09-30T12:26:10+0530 lvl=info msg="Config loaded from" logger=settings file=/home/gogimcoitdev2/mycode/go/src/github.com/grafana/grafana/conf/defaults.ini
+t=2016-09-30T12:26:10+0530 lvl=info msg="Path Home" logger=settings path=/home/gogimcoitdev2/mycode/go/src/github.com/grafana/grafana
+t=2016-09-30T12:26:10+0530 lvl=info msg="Path Data" logger=settings path=/home/gogimcoitdev2/mycode/go/src/github.com/grafana/grafana/data
+t=2016-09-30T12:26:10+0530 lvl=info msg="Path Logs" logger=settings path=/home/gogimcoitdev2/mycode/go/src/github.com/grafana/grafana/data/log
+t=2016-09-30T12:26:10+0530 lvl=info msg="Path Plugins" logger=settings path=data/plugins
+t=2016-09-30T12:26:10+0530 lvl=info msg="Initializing DB" logger=sqlstore dbtype=mysql
+t=2016-09-30T12:26:10+0530 lvl=info msg="Starting DB migration" logger=migrator
+t=2016-09-30T12:26:12+0530 lvl=info msg="Starting plugin search" logger=plugins
+t=2016-09-30T12:26:12+0530 lvl=info msg="Server Listening" logger=server address=0.0.0.0:3000 protocol=http subUrl=
+t=2016-09-30T12:26:28+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-notification-icons/angular-notification-icons.min.css status=404 remote_addr=127.0.0.1 time_ns=495ns size=19
+t=2016-09-30T12:26:29+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-animate/angular-animate.js status=404 remote_addr=127.0.0.1 time_ns=1.723µs size=19
+t=2016-09-30T12:26:29+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular/angular.js status=404 remote_addr=127.0.0.1 time_ns=1.736µs size=19
+t=2016-09-30T12:26:29+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-notification-icons/angular-notification-icons.min.js status=404 remote_addr=127.0.0.1 time_ns=1.784µs size=19
+t=2016-09-30T12:26:29+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-animate/angular-animate.js status=404 remote_addr=127.0.0.1 time_ns=494ns size=19
+t=2016-09-30T12:26:30+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-notification-icons/angular-notification-icons.min.js status=404 remote_addr=127.0.0.1 time_ns=489ns size=19
+t=2016-09-30T12:27:00+0530 lvl=info msg="Received signal [interrupt]. shutting down"
+t=2016-09-30T12:30:58+0530 lvl=info msg="Starting Grafana" logger=main version=3.1.0 commit=NA compiled=2016-09-30T12:30:58+0530
+t=2016-09-30T12:30:58+0530 lvl=info msg="Config loaded from" logger=settings file=/home/gogimcoitdev2/mycode/go/src/github.com/grafana/grafana/conf/defaults.ini
+t=2016-09-30T12:30:58+0530 lvl=info msg="Config loaded from" logger=settings file=/home/gogimcoitdev2/mycode/go/src/github.com/grafana/grafana/conf/defaults.ini
+t=2016-09-30T12:30:58+0530 lvl=info msg="Path Home" logger=settings path=/home/gogimcoitdev2/mycode/go/src/github.com/grafana/grafana
+t=2016-09-30T12:30:58+0530 lvl=info msg="Path Data" logger=settings path=/home/gogimcoitdev2/mycode/go/src/github.com/grafana/grafana/data
+t=2016-09-30T12:30:58+0530 lvl=info msg="Path Logs" logger=settings path=/home/gogimcoitdev2/mycode/go/src/github.com/grafana/grafana/data/log
+t=2016-09-30T12:30:58+0530 lvl=info msg="Path Plugins" logger=settings path=data/plugins
+t=2016-09-30T12:30:58+0530 lvl=info msg="Initializing DB" logger=sqlstore dbtype=mysql
+t=2016-09-30T12:30:58+0530 lvl=info msg="Starting DB migration" logger=migrator
+t=2016-09-30T12:31:00+0530 lvl=info msg="Starting plugin search" logger=plugins
+t=2016-09-30T12:31:00+0530 lvl=info msg="Server Listening" logger=server address=0.0.0.0:3000 protocol=http subUrl=
+t=2016-09-30T12:31:09+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-notification-icons/angular-notification-icons.min.css status=404 remote_addr=127.0.0.1 time_ns=495ns size=19
+t=2016-09-30T12:31:11+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-notification-icons/angular-notification-icons.min.js status=404 remote_addr=127.0.0.1 time_ns=1.719µs size=19
+t=2016-09-30T12:31:11+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular/angular.js status=404 remote_addr=127.0.0.1 time_ns=1.753µs size=19
+t=2016-09-30T12:31:11+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-animate/angular-animate.js status=404 remote_addr=127.0.0.1 time_ns=1.763µs size=19
+t=2016-09-30T12:31:11+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-notification-icons/angular-notification-icons.min.js status=404 remote_addr=127.0.0.1 time_ns=494ns size=19
+t=2016-09-30T12:41:24+0530 lvl=info msg="Received signal [interrupt]. shutting down"
+t=2016-09-30T12:46:34+0530 lvl=info msg="Starting Grafana" logger=main version=3.1.0 commit=NA compiled=2016-09-30T12:46:34+0530
+t=2016-09-30T12:46:34+0530 lvl=info msg="Config loaded from" logger=settings file=/home/gogimcoitdev2/mycode/go/src/github.com/grafana/grafana/conf/defaults.ini
+t=2016-09-30T12:46:34+0530 lvl=info msg="Config loaded from" logger=settings file=/home/gogimcoitdev2/mycode/go/src/github.com/grafana/grafana/conf/defaults.ini
+t=2016-09-30T12:46:34+0530 lvl=info msg="Path Home" logger=settings path=/home/gogimcoitdev2/mycode/go/src/github.com/grafana/grafana
+t=2016-09-30T12:46:34+0530 lvl=info msg="Path Data" logger=settings path=/home/gogimcoitdev2/mycode/go/src/github.com/grafana/grafana/data
+t=2016-09-30T12:46:34+0530 lvl=info msg="Path Logs" logger=settings path=/home/gogimcoitdev2/mycode/go/src/github.com/grafana/grafana/data/log
+t=2016-09-30T12:46:34+0530 lvl=info msg="Path Plugins" logger=settings path=data/plugins
+t=2016-09-30T12:46:34+0530 lvl=info msg="Initializing DB" logger=sqlstore dbtype=mysql
+t=2016-09-30T12:46:34+0530 lvl=info msg="Starting DB migration" logger=migrator
+t=2016-09-30T12:46:36+0530 lvl=info msg="Starting plugin search" logger=plugins
+t=2016-09-30T12:46:36+0530 lvl=info msg="Server Listening" logger=server address=0.0.0.0:3000 protocol=http subUrl=
+t=2016-09-30T12:46:48+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-notification-icons/angular-notification-icons.min.css status=404 remote_addr=127.0.0.1 time_ns=500ns size=19
+t=2016-09-30T12:46:49+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-notification-icons/angular-notification-icons.min.js status=404 remote_addr=127.0.0.1 time_ns=1.958µs size=19
+t=2016-09-30T12:46:49+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-animate/angular-animate.js status=404 remote_addr=127.0.0.1 time_ns=1.974µs size=19
+t=2016-09-30T12:46:49+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular/angular.js status=404 remote_addr=127.0.0.1 time_ns=1.976µs size=19
+t=2016-09-30T12:46:50+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-animate/angular-animate.js status=404 remote_addr=127.0.0.1 time_ns=503ns size=19
+t=2016-09-30T12:46:50+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-notification-icons/angular-notification-icons.min.js status=404 remote_addr=127.0.0.1 time_ns=495ns size=19
+t=2016-09-30T14:34:24+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-notification-icons/angular-notification-icons.min.css status=404 remote_addr=127.0.0.1 time_ns=495ns size=19
+t=2016-09-30T14:34:25+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular/angular.js status=404 remote_addr=127.0.0.1 time_ns=1.737µs size=19
+t=2016-09-30T14:34:25+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-animate/angular-animate.js status=404 remote_addr=127.0.0.1 time_ns=1.737µs size=19
+t=2016-09-30T14:34:25+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-notification-icons/angular-notification-icons.min.js status=404 remote_addr=127.0.0.1 time_ns=1.739µs size=19
+t=2016-09-30T14:34:25+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-notification-icons/angular-notification-icons.min.js status=404 remote_addr=127.0.0.1 time_ns=495ns size=19
+t=2016-09-30T14:37:06+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-notification-icons/angular-notification-icons.min.css status=404 remote_addr=127.0.0.1 time_ns=489ns size=19
+t=2016-09-30T14:37:07+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-animate/angular-animate.js status=404 remote_addr=127.0.0.1 time_ns=1.778µs size=19
+t=2016-09-30T14:37:08+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-notification-icons/angular-notification-icons.min.js status=404 remote_addr=127.0.0.1 time_ns=1.786µs size=19
+t=2016-09-30T14:37:08+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular/angular.js status=404 remote_addr=127.0.0.1 time_ns=1.799µs size=19
+t=2016-09-30T14:37:08+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-animate/angular-animate.js status=404 remote_addr=127.0.0.1 time_ns=489ns size=19
+t=2016-09-30T14:37:09+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-notification-icons/angular-notification-icons.min.js status=404 remote_addr=127.0.0.1 time_ns=506ns size=19
+t=2016-09-30T14:41:14+0530 lvl=info msg="Received signal [interrupt]. shutting down"
+t=2016-09-30T14:41:24+0530 lvl=info msg="Starting Grafana" logger=main version=3.1.0 commit=NA compiled=2016-09-30T14:41:24+0530
+t=2016-09-30T14:41:24+0530 lvl=info msg="Config loaded from" logger=settings file=/home/gogimcoitdev2/mycode/go/src/github.com/grafana/grafana/conf/defaults.ini
+t=2016-09-30T14:41:24+0530 lvl=info msg="Config loaded from" logger=settings file=/home/gogimcoitdev2/mycode/go/src/github.com/grafana/grafana/conf/defaults.ini
+t=2016-09-30T14:41:24+0530 lvl=info msg="Path Home" logger=settings path=/home/gogimcoitdev2/mycode/go/src/github.com/grafana/grafana
+t=2016-09-30T14:41:24+0530 lvl=info msg="Path Data" logger=settings path=/home/gogimcoitdev2/mycode/go/src/github.com/grafana/grafana/data
+t=2016-09-30T14:41:24+0530 lvl=info msg="Path Logs" logger=settings path=/home/gogimcoitdev2/mycode/go/src/github.com/grafana/grafana/data/log
+t=2016-09-30T14:41:24+0530 lvl=info msg="Path Plugins" logger=settings path=data/plugins
+t=2016-09-30T14:41:24+0530 lvl=info msg="Initializing DB" logger=sqlstore dbtype=mysql
+t=2016-09-30T14:41:24+0530 lvl=info msg="Starting DB migration" logger=migrator
+t=2016-09-30T14:42:27+0530 lvl=eror msg="Fail to initialize orm engine" logger=sqlstore error="Sqlstore::Migration failed err: dial tcp 198.71.227.94:3306: getsockopt: network is unreachable\n"
+t=2016-09-30T14:49:07+0530 lvl=info msg="Starting Grafana" logger=main version=3.1.0 commit=NA compiled=2016-09-30T14:49:07+0530
+t=2016-09-30T14:49:07+0530 lvl=info msg="Config loaded from" logger=settings file=/home/gogimcoitdev2/mycode/go/src/github.com/grafana/grafana/conf/defaults.ini
+t=2016-09-30T14:49:07+0530 lvl=info msg="Config loaded from" logger=settings file=/home/gogimcoitdev2/mycode/go/src/github.com/grafana/grafana/conf/defaults.ini
+t=2016-09-30T14:49:07+0530 lvl=info msg="Path Home" logger=settings path=/home/gogimcoitdev2/mycode/go/src/github.com/grafana/grafana
+t=2016-09-30T14:49:07+0530 lvl=info msg="Path Data" logger=settings path=/home/gogimcoitdev2/mycode/go/src/github.com/grafana/grafana/data
+t=2016-09-30T14:49:07+0530 lvl=info msg="Path Logs" logger=settings path=/home/gogimcoitdev2/mycode/go/src/github.com/grafana/grafana/data/log
+t=2016-09-30T14:49:07+0530 lvl=info msg="Path Plugins" logger=settings path=data/plugins
+t=2016-09-30T14:49:07+0530 lvl=info msg="Initializing DB" logger=sqlstore dbtype=mysql
+t=2016-09-30T14:49:07+0530 lvl=info msg="Starting DB migration" logger=migrator
+t=2016-09-30T14:49:10+0530 lvl=info msg="Starting plugin search" logger=plugins
+t=2016-09-30T14:49:10+0530 lvl=info msg="Server Listening" logger=server address=0.0.0.0:3000 protocol=http subUrl=
+t=2016-09-30T14:52:22+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-notification-icons/angular-notification-icons.min.css status=404 remote_addr=127.0.0.1 time_ns=495ns size=19
+t=2016-09-30T14:52:23+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-animate/angular-animate.js status=404 remote_addr=127.0.0.1 time_ns=1.737µs size=19
+t=2016-09-30T14:52:23+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-notification-icons/angular-notification-icons.min.js status=404 remote_addr=127.0.0.1 time_ns=1.774µs size=19
+t=2016-09-30T14:52:23+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular/angular.js status=404 remote_addr=127.0.0.1 time_ns=1.809µs size=19
+t=2016-09-30T14:52:23+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-animate/angular-animate.js status=404 remote_addr=127.0.0.1 time_ns=494ns size=19
+t=2016-09-30T14:52:24+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-notification-icons/angular-notification-icons.min.js status=404 remote_addr=127.0.0.1 time_ns=493ns size=19
+t=2016-09-30T14:56:59+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-notification-icons/angular-notification-icons.min.css status=404 remote_addr=127.0.0.1 time_ns=496ns size=19
+t=2016-09-30T14:57:01+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-notification-icons/angular-notification-icons.min.js status=404 remote_addr=127.0.0.1 time_ns=1.756µs size=19
+t=2016-09-30T14:57:01+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-animate/angular-animate.js status=404 remote_addr=127.0.0.1 time_ns=1.765µs size=19
+t=2016-09-30T14:57:01+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular/angular.js status=404 remote_addr=127.0.0.1 time_ns=1.766µs size=19
+t=2016-09-30T14:57:01+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-animate/angular-animate.js status=404 remote_addr=127.0.0.1 time_ns=496ns size=19
+t=2016-09-30T14:57:02+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-notification-icons/angular-notification-icons.min.js status=404 remote_addr=127.0.0.1 time_ns=500ns size=19
+t=2016-09-30T15:22:00+0530 lvl=info msg="Received signal [interrupt]. shutting down"
+t=2016-09-30T15:22:32+0530 lvl=info msg="Starting Grafana" logger=main version=3.1.0 commit=NA compiled=2016-09-30T15:22:32+0530
+t=2016-09-30T15:22:32+0530 lvl=info msg="Config loaded from" logger=settings file=/home/gogimcoitdev2/mycode/go/src/github.com/grafana/grafana/conf/defaults.ini
+t=2016-09-30T15:22:32+0530 lvl=info msg="Config loaded from" logger=settings file=/home/gogimcoitdev2/mycode/go/src/github.com/grafana/grafana/conf/defaults.ini
+t=2016-09-30T15:22:32+0530 lvl=info msg="Path Home" logger=settings path=/home/gogimcoitdev2/mycode/go/src/github.com/grafana/grafana
+t=2016-09-30T15:22:32+0530 lvl=info msg="Path Data" logger=settings path=/home/gogimcoitdev2/mycode/go/src/github.com/grafana/grafana/data
+t=2016-09-30T15:22:32+0530 lvl=info msg="Path Logs" logger=settings path=/home/gogimcoitdev2/mycode/go/src/github.com/grafana/grafana/data/log
+t=2016-09-30T15:22:32+0530 lvl=info msg="Path Plugins" logger=settings path=data/plugins
+t=2016-09-30T15:22:32+0530 lvl=info msg="Initializing DB" logger=sqlstore dbtype=mysql
+t=2016-09-30T15:22:32+0530 lvl=info msg="Starting DB migration" logger=migrator
+t=2016-09-30T15:22:35+0530 lvl=info msg="Starting plugin search" logger=plugins
+t=2016-09-30T15:22:35+0530 lvl=info msg="Server Listening" logger=server address=0.0.0.0:3000 protocol=http subUrl=
+t=2016-09-30T15:22:45+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-notification-icons/angular-notification-icons.min.css status=404 remote_addr=127.0.0.1 time_ns=507ns size=19
+t=2016-09-30T15:22:46+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-animate/angular-animate.js status=404 remote_addr=127.0.0.1 time_ns=1.782µs size=19
+t=2016-09-30T15:22:46+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-notification-icons/angular-notification-icons.min.js status=404 remote_addr=127.0.0.1 time_ns=1.786µs size=19
+t=2016-09-30T15:22:46+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular/angular.js status=404 remote_addr=127.0.0.1 time_ns=1.796µs size=19
+t=2016-09-30T15:22:47+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-animate/angular-animate.js status=404 remote_addr=127.0.0.1 time_ns=510ns size=19
+t=2016-09-30T15:22:47+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-notification-icons/angular-notification-icons.min.js status=404 remote_addr=127.0.0.1 time_ns=498ns size=19
+t=2016-09-30T15:23:07+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/public/app/plugins/panel/grafana-clock-panel/module.js status=404 remote_addr=127.0.0.1 time_ns=629ns size=19
+t=2016-09-30T15:24:53+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-notification-icons/angular-notification-icons.min.js status=404 remote_addr=127.0.0.1 time_ns=511ns size=19
+t=2016-09-30T15:24:54+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular/angular.js status=404 remote_addr=127.0.0.1 time_ns=1.79µs size=19
+t=2016-09-30T15:24:54+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-notification-icons/angular-notification-icons.min.css status=404 remote_addr=127.0.0.1 time_ns=1.801µs size=19
+t=2016-09-30T15:24:54+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-animate/angular-animate.js status=404 remote_addr=127.0.0.1 time_ns=1.803µs size=19
+t=2016-09-30T15:24:55+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-notification-icons/angular-notification-icons.min.js status=404 remote_addr=127.0.0.1 time_ns=497ns size=19
+t=2016-09-30T15:27:41+0530 lvl=info msg="Received signal [interrupt]. shutting down"
+t=2016-09-30T15:30:22+0530 lvl=info msg="Starting Grafana" logger=main version=3.1.0 commit=NA compiled=2016-09-30T15:30:22+0530
+t=2016-09-30T15:30:22+0530 lvl=info msg="Config loaded from" logger=settings file=/home/gogimcoitdev2/mycode/go/src/github.com/grafana/grafana/conf/defaults.ini
+t=2016-09-30T15:30:22+0530 lvl=info msg="Config loaded from" logger=settings file=/home/gogimcoitdev2/mycode/go/src/github.com/grafana/grafana/conf/defaults.ini
+t=2016-09-30T15:30:22+0530 lvl=info msg="Path Home" logger=settings path=/home/gogimcoitdev2/mycode/go/src/github.com/grafana/grafana
+t=2016-09-30T15:30:22+0530 lvl=info msg="Path Data" logger=settings path=/home/gogimcoitdev2/mycode/go/src/github.com/grafana/grafana/data
+t=2016-09-30T15:30:22+0530 lvl=info msg="Path Logs" logger=settings path=/home/gogimcoitdev2/mycode/go/src/github.com/grafana/grafana/data/log
+t=2016-09-30T15:30:22+0530 lvl=info msg="Path Plugins" logger=settings path=data/plugins
+t=2016-09-30T15:30:22+0530 lvl=info msg="Initializing DB" logger=sqlstore dbtype=mysql
+t=2016-09-30T15:30:22+0530 lvl=info msg="Starting DB migration" logger=migrator
+t=2016-09-30T15:30:25+0530 lvl=info msg="Starting plugin search" logger=plugins
+t=2016-09-30T15:30:25+0530 lvl=info msg="Server Listening" logger=server address=0.0.0.0:3000 protocol=http subUrl=
+t=2016-09-30T15:30:35+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-animate/angular-animate.js status=404 remote_addr=127.0.0.1 time_ns=495ns size=19
+t=2016-09-30T15:30:37+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular/angular.js status=404 remote_addr=127.0.0.1 time_ns=1.746µs size=19
+t=2016-09-30T15:30:37+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-notification-icons/angular-notification-icons.min.js status=404 remote_addr=127.0.0.1 time_ns=1.748µs size=19
+t=2016-09-30T15:30:37+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-notification-icons/angular-notification-icons.min.css status=404 remote_addr=127.0.0.1 time_ns=1.778µs size=19
+t=2016-09-30T15:30:37+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-animate/angular-animate.js status=404 remote_addr=127.0.0.1 time_ns=500ns size=19
+t=2016-09-30T15:30:38+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-notification-icons/angular-notification-icons.min.js status=404 remote_addr=127.0.0.1 time_ns=495ns size=19
+t=2016-09-30T15:34:51+0530 lvl=info msg="Received signal [interrupt]. shutting down"
+t=2016-09-30T15:35:25+0530 lvl=info msg="Starting Grafana" logger=main version=3.1.0 commit=NA compiled=2016-09-30T15:35:25+0530
+t=2016-09-30T15:35:25+0530 lvl=info msg="Config loaded from" logger=settings file=/home/gogimcoitdev2/mycode/go/src/github.com/grafana/grafana/conf/defaults.ini
+t=2016-09-30T15:35:25+0530 lvl=info msg="Config loaded from" logger=settings file=/home/gogimcoitdev2/mycode/go/src/github.com/grafana/grafana/conf/defaults.ini
+t=2016-09-30T15:35:25+0530 lvl=info msg="Path Home" logger=settings path=/home/gogimcoitdev2/mycode/go/src/github.com/grafana/grafana
+t=2016-09-30T15:35:25+0530 lvl=info msg="Path Data" logger=settings path=/home/gogimcoitdev2/mycode/go/src/github.com/grafana/grafana/data
+t=2016-09-30T15:35:25+0530 lvl=info msg="Path Logs" logger=settings path=/home/gogimcoitdev2/mycode/go/src/github.com/grafana/grafana/data/log
+t=2016-09-30T15:35:25+0530 lvl=info msg="Path Plugins" logger=settings path=data/plugins
+t=2016-09-30T15:35:25+0530 lvl=info msg="Initializing DB" logger=sqlstore dbtype=mysql
+t=2016-09-30T15:35:25+0530 lvl=info msg="Starting DB migration" logger=migrator
+t=2016-09-30T15:35:28+0530 lvl=info msg="Starting plugin search" logger=plugins
+t=2016-09-30T15:35:28+0530 lvl=info msg="Server Listening" logger=server address=0.0.0.0:3000 protocol=http subUrl=
+t=2016-09-30T15:36:24+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular/angular.js status=404 remote_addr=127.0.0.1 time_ns=500ns size=19
+t=2016-09-30T15:36:26+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-notification-icons/angular-notification-icons.min.css status=404 remote_addr=127.0.0.1 time_ns=1.767µs size=19
+t=2016-09-30T15:36:26+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-animate/angular-animate.js status=404 remote_addr=127.0.0.1 time_ns=1.77µs size=19
+t=2016-09-30T15:36:26+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-notification-icons/angular-notification-icons.min.js status=404 remote_addr=127.0.0.1 time_ns=1.783µs size=19
+t=2016-09-30T15:38:43+0530 lvl=info msg="Received signal [interrupt]. shutting down"
+t=2016-09-30T15:40:44+0530 lvl=info msg="Starting Grafana" logger=main version=3.1.0 commit=NA compiled=2016-09-30T15:40:44+0530
+t=2016-09-30T15:40:44+0530 lvl=info msg="Config loaded from" logger=settings file=/home/gogimcoitdev2/mycode/go/src/github.com/grafana/grafana/conf/defaults.ini
+t=2016-09-30T15:40:44+0530 lvl=info msg="Config loaded from" logger=settings file=/home/gogimcoitdev2/mycode/go/src/github.com/grafana/grafana/conf/defaults.ini
+t=2016-09-30T15:40:44+0530 lvl=info msg="Path Home" logger=settings path=/home/gogimcoitdev2/mycode/go/src/github.com/grafana/grafana
+t=2016-09-30T15:40:44+0530 lvl=info msg="Path Data" logger=settings path=/home/gogimcoitdev2/mycode/go/src/github.com/grafana/grafana/data
+t=2016-09-30T15:40:44+0530 lvl=info msg="Path Logs" logger=settings path=/home/gogimcoitdev2/mycode/go/src/github.com/grafana/grafana/data/log
+t=2016-09-30T15:40:44+0530 lvl=info msg="Path Plugins" logger=settings path=data/plugins
+t=2016-09-30T15:40:44+0530 lvl=info msg="Initializing DB" logger=sqlstore dbtype=mysql
+t=2016-09-30T15:40:44+0530 lvl=info msg="Starting DB migration" logger=migrator
+t=2016-09-30T15:40:47+0530 lvl=info msg="Starting plugin search" logger=plugins
+t=2016-09-30T15:40:47+0530 lvl=info msg="Registering plugin" logger=plugins name="Pie Chart"
+t=2016-09-30T15:40:47+0530 lvl=info msg="Server Listening" logger=server address=0.0.0.0:3000 protocol=http subUrl=
+t=2016-09-30T15:40:58+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-notification-icons/angular-notification-icons.min.css status=404 remote_addr=127.0.0.1 time_ns=500ns size=19
+t=2016-09-30T15:41:00+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular/angular.js status=404 remote_addr=127.0.0.1 time_ns=1.77µs size=19
+t=2016-09-30T15:41:00+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-notification-icons/angular-notification-icons.min.js status=404 remote_addr=127.0.0.1 time_ns=1.766µs size=19
+t=2016-09-30T15:41:00+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-animate/angular-animate.js status=404 remote_addr=127.0.0.1 time_ns=1.799µs size=19
+t=2016-09-30T15:41:00+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-notification-icons/angular-notification-icons.min.js status=404 remote_addr=127.0.0.1 time_ns=496ns size=19
+t=2016-09-30T17:47:42+0530 lvl=info msg="Received signal [interrupt]. shutting down"
+t=2016-09-30T17:49:25+0530 lvl=info msg="Starting Grafana" logger=main version=3.1.0 commit=NA compiled=2016-09-30T17:49:25+0530
+t=2016-09-30T17:49:25+0530 lvl=info msg="Config loaded from" logger=settings file=/home/gogimcoitdev2/mycode/go/src/github.com/grafana/grafana/conf/defaults.ini
+t=2016-09-30T17:49:25+0530 lvl=info msg="Config loaded from" logger=settings file=/home/gogimcoitdev2/mycode/go/src/github.com/grafana/grafana/conf/defaults.ini
+t=2016-09-30T17:49:25+0530 lvl=info msg="Path Home" logger=settings path=/home/gogimcoitdev2/mycode/go/src/github.com/grafana/grafana
+t=2016-09-30T17:49:25+0530 lvl=info msg="Path Data" logger=settings path=/home/gogimcoitdev2/mycode/go/src/github.com/grafana/grafana/data
+t=2016-09-30T17:49:25+0530 lvl=info msg="Path Logs" logger=settings path=/home/gogimcoitdev2/mycode/go/src/github.com/grafana/grafana/data/log
+t=2016-09-30T17:49:25+0530 lvl=info msg="Path Plugins" logger=settings path=data/plugins
+t=2016-09-30T17:49:25+0530 lvl=info msg="Initializing DB" logger=sqlstore dbtype=mysql
+t=2016-09-30T17:49:25+0530 lvl=info msg="Starting DB migration" logger=migrator
+t=2016-09-30T17:49:27+0530 lvl=info msg="Starting plugin search" logger=plugins
+t=2016-09-30T17:49:27+0530 lvl=info msg="Registering plugin" logger=plugins name=flow-chart
+t=2016-09-30T17:49:27+0530 lvl=info msg="Registering plugin" logger=plugins name="Pie Chart"
+t=2016-09-30T17:49:27+0530 lvl=info msg="Server Listening" logger=server address=0.0.0.0:3000 protocol=http subUrl=
+t=2016-09-30T17:49:53+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-notification-icons/angular-notification-icons.min.css status=404 remote_addr=127.0.0.1 time_ns=506ns size=19
+t=2016-09-30T17:49:54+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular/angular.js status=404 remote_addr=127.0.0.1 time_ns=1.756µs size=19
+t=2016-09-30T17:49:54+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-animate/angular-animate.js status=404 remote_addr=127.0.0.1 time_ns=1.778µs size=19
+t=2016-09-30T17:49:54+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/bower_components/angular-notification-icons/angular-notification-icons.min.js status=404 remote_addr=127.0.0.1 time_ns=1.784µs size=19
+t=2016-09-30T17:50:02+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/public/plugins/grafana-flow-chart/module.js status=404 remote_addr=127.0.0.1 time_ns=500ns size=19
+t=2016-09-30T17:52:59+0530 lvl=info msg="Request Completed" logger=context userId=2 orgId=2 uname=yuvaraj@gogimco.com method=GET path=/public/plugins/grafana-flow-chart/module.js status=404 remote_addr=127.0.0.1 time_ns=497ns size=19
